@@ -2,14 +2,14 @@
 
 Este proyecto es para la gestion de productos, pedidos, clientes
 
-##Caracteristicas principales
+# Caracteristicas principales
 
 La disponiblidad de los productos
 Problemas
 Gestión de los pedidos
 Registro de los usuarios
 
-##Documentacion
+# Documentacion
 
 Para ver la documentacion de JavaDoc la tenemos disponible en la carpeta /doc/javadoc
 
