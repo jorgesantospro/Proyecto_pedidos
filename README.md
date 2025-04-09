@@ -10,9 +10,11 @@ Gestión de los pedidos
 Registro de los usuarios
 
 ##Documentacion
+
 Para ver la documentacion de JavaDoc la tenemos disponible en la carpeta /doc/javadoc
 
 ## Los requisitos
+
 Tenemos que tener el Java JDK 8 o superiores a el
 Y tenemos que tener el Git para el control de las versiones
 
